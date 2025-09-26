@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.talkie-ai.com/talkie-user-img/112657350525421/247188651962460.gif"  />
+<img align="right" height="150" src="https://upload-os-bbs.hoyolab.com/upload/2024/12/24/207043047/6e7fe2592681a39b4b78de52ac453bec_1227949104514763032.gif"  />
 
 ###
 
