@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.talkie-ai.com/talkie-user-img/112657350525421/247188651962460.gif"  />
+<img align="right" height="150" src="https://upload-os-bbs.hoyolab.com/upload/2024/12/24/207043047/6e7fe2592681a39b4b78de52ac453bec_1227949104514763032.gif"  />
 
 ###
 
@@ -50,18 +50,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nishimura221/Nishimura221/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-<!--
-**Nishimura221/Nishimura221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
